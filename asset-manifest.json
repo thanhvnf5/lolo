@@ -1,8 +1,8 @@
 {
-  "main.js": "./static/js/main.83641ed7.js",
+  "main.js": "./static/js/main.4eb58cfd.js",
   "main.css": "./static/css/main.35958df86f1ca7e5ff67.css",
   "main.css.map": "./static/css/main.35958df86f1ca7e5ff67.css.map",
   "index.html": "./index.html",
-  "static/media/card-flip-back.mp3": "./static/media/card-flip-back.6860f843.mp3",
-  "static/media/card-flip.mp3": "./static/media/card-flip.c27111d8.mp3"
+  "static/media/card-flip.mp3": "./static/media/card-flip.c27111d8.mp3",
+  "static/media/start.mp3": "./static/media/start.b6a096c9.mp3"
 }
