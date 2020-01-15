@@ -1,8 +1,13 @@
 {
-  "main.js": "./static/js/main.4eb58cfd.js",
+  "main.js": "./static/js/main.f196f29e.js",
   "main.css": "./static/css/main.35958df86f1ca7e5ff67.css",
   "main.css.map": "./static/css/main.35958df86f1ca7e5ff67.css.map",
   "index.html": "./index.html",
+  "static/media/card-flip-back.mp3": "./static/media/card-flip-back.6860f843.mp3",
   "static/media/card-flip.mp3": "./static/media/card-flip.c27111d8.mp3",
-  "static/media/start.mp3": "./static/media/start.b6a096c9.mp3"
+  "static/media/empty.mp3": "./static/media/empty.7c85f150.mp3",
+  "static/media/sheetCode.mp3": "./static/media/sheetCode.e6f516d5.mp3",
+  "static/media/sheetWin.mp3": "./static/media/sheetWin.1a451b8d.mp3",
+  "static/media/start.mp3": "./static/media/start.b6a096c9.mp3",
+  "static/media/start_111.mp3": "./static/media/start_111.74e3429b.mp3"
 }
