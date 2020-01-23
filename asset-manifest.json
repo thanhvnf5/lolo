@@ -1,5 +1,5 @@
 {
-  "main.js": "./static/js/main.e9d79f49.js",
+  "main.js": "./static/js/main.030ef9f9.js",
   "main.css": "./static/css/main.617f40d4b23a9e5a0090.css",
   "main.css.map": "./static/css/main.617f40d4b23a9e5a0090.css.map",
   "index.html": "./index.html",
@@ -93,8 +93,6 @@
   "static/media/89.mp3": "./static/media/89.7d6f7484.mp3",
   "static/media/9.mp3": "./static/media/9.7e5347f8.mp3",
   "static/media/90.mp3": "./static/media/90.6fa71cbf.mp3",
-  "static/media/card-flip-back.mp3": "./static/media/card-flip-back.6860f843.mp3",
-  "static/media/card-flip.mp3": "./static/media/card-flip.c27111d8.mp3",
   "static/media/countdown.mp3": "./static/media/countdown.f5c5d1ad.mp3",
   "static/media/empty.mp3": "./static/media/empty.7c85f150.mp3",
   "static/media/sheetCode.mp3": "./static/media/sheetCode.e6f516d5.mp3",
