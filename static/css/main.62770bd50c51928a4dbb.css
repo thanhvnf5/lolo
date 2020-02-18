@@ -366,6 +366,43 @@ body {
   color: #944317;
 }
 
+.App__playerWrapper__UrwPj {
+  position: relative;
+  padding-top: 56.25%; /* 56.25%; 16:9 Aspect Ratio */ /* Player ratio: 100 / (1280 / 720) */
+  width: 100%;
+  height: 100%;
+}
+ 
+.App__reactPlayer__1Evva {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.App__numberOnPlayerContainer__3V50G {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.App__numberOnPlayer__2XKvK {
+  position: absolute;
+  top: 0;
+  width: auto;
+  height: auto;
+  color: red;
+  z-index: 2;
+}
+
+.App__inputVideoUrl__2oFbm {
+  font-size: larger;
+  width: 100%;
+}
+
 .App__loaderParent__2oK3i {
   position: fixed;
   text-align: center;
@@ -405,6 +442,11 @@ body {
 @media (min-width: 768px) {
 
   .App__SheetContainer__21tjt {
+    width: 50%;
+  }
+
+  .App__playerWrapper__UrwPj {
+    padding-top: 28.125%; /* 56.25%; 16:9 Aspect Ratio */ /* Player ratio: 100 / (1280 / 720) */
     width: 50%;
   }
 }.Cell__Cell__3wa-2 {
@@ -453,4 +495,4 @@ body {
     top: 0;
     background-color: rgba(0, 0, 0, 0.5);
 }
-/*# sourceMappingURL=main.62eb321531717d63d72e.css.map*/
+/*# sourceMappingURL=main.62770bd50c51928a4dbb.css.map*/
