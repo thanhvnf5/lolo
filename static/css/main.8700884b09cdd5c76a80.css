@@ -395,6 +395,7 @@ body {
   width: auto;
   height: auto;
   color: red;
+  font-size: xx-large;
   z-index: 2;
 }
 
@@ -411,7 +412,7 @@ body {
   height: 50vh;
 }
 .App__loader__1cVgu {
-  position: fixed;
+  position: absolute;
   top: 50px;
   left: calc(50% - 50px);
   width: 100px;
@@ -435,8 +436,6 @@ body {
   0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
   100% { -webkit-transform: rotate(360deg); transform: rotate(360deg); }
 }
-
-
 
 
 @media (min-width: 768px) {
@@ -495,4 +494,4 @@ body {
     top: 0;
     background-color: rgba(0, 0, 0, 0.5);
 }
-/*# sourceMappingURL=main.62770bd50c51928a4dbb.css.map*/
+/*# sourceMappingURL=main.8700884b09cdd5c76a80.css.map*/
