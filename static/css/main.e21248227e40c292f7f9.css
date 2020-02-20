@@ -303,10 +303,6 @@ body {
 }
 
 .App__currentNumber__2GUyf {
-  position:relative;
-  list-style-type: none;
-  display: inline-block;
-  color: red;
   font-size: larger;
 }
 
@@ -394,10 +390,22 @@ body {
   top: 0;
   width: auto;
   height: auto;
-  color: red;
   font-size: xx-large;
   z-index: 2;
 }
+
+.App__numberColor0__15gmL {
+  color: green;
+}
+
+.App__numberColor1__1TaKP {
+  color: blue;
+}
+
+.App__numberColor2__29Fis {
+  color: red;
+}
+
 
 .App__inputVideoUrl__2oFbm {
   font-size: larger;
@@ -514,4 +522,4 @@ body {
     top: 0;
     background-color: rgba(0, 0, 0, 0.5);
 }
-/*# sourceMappingURL=main.c301a77ab9b694818a9e.css.map*/
+/*# sourceMappingURL=main.e21248227e40c292f7f9.css.map*/
